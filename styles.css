@@ -1,23 +1,16 @@
-/* Your CSS Code here. */
-.container {
-  display: flex;
+table,th,tr,td{
+	border:1px solid black;
 }
-
-.grid {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
+.Data1{
+	width:250px;
+	height:200px;
 }
-
-table,td,th,tr{
-	border:2px solid black;
-	margin:1px;
-}
-
-table table{
+.Row1{
 	text-align:center;
-	width:100%;
 }
-.bg{
-	background-color: rgb(0, 0, 0);
-	color:white;
+.tab1{
+	width:250px;
+}
+.Data2{
+	height:100px
 }
