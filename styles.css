@@ -17,3 +17,7 @@ table table{
 	text-align:center;
 	width:100%;
 }
+.bg{
+	background-color: rgba(0, 0, 0, 0);
+	color:white;
+}
